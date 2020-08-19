@@ -48,7 +48,7 @@ const Search = () => {
           />
         </div>
         <button className="btn btn-primary btn-lg btn-block mb-5" type="submit">
-          Get Track Lyrics
+          Get Track Lines
         </button>
       </form>
     </div>

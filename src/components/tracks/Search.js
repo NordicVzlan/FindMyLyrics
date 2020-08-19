@@ -3,7 +3,7 @@ import axios from "axios";
 import { Context } from "../../context";
 
 const Search = () => {
-  const [setState] = useContext(Context);
+  const [ state, setState] = useContext(Context);
   const [userInput, setUserInput] = useState("");
   const [trackTitle, setTrackTitle] = useState("");
 
@@ -33,9 +33,9 @@ const Search = () => {
   return (
     <div className="card card-body mb-4 p-4">
       <h1 className="display-4 text-center">
-        <i className="fas fa-music" /> Search For Your Favorite Songs
+        <i className="fas fa-music" /> Search For Your Lines
       </h1>
-      <p className="lead text-center">Get the lyrics of any song Now!</p>
+      <p className="lead text-center">Get the lyrics of your favorite song!</p>
       <form onSubmit={findTrack}>
         <div className="form-group">
           <input

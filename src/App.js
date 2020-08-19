@@ -24,7 +24,6 @@ const App = () => {
         </>
       </Router>
     </ContextController>
-    
   );
 };
 

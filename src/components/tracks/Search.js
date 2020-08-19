@@ -35,7 +35,7 @@ const Search = () => {
       <h1 className="display-4 text-center">
         <i className="fas fa-music" /> Search For Your Lines
       </h1>
-      <p className="lead text-center">Get the lyrics of your favorite song!</p>
+      <p className="lead text-center">Get your favorite song lines!</p>
       <form onSubmit={findTrack}>
         <div className="form-group">
           <input

@@ -15,16 +15,14 @@ Get your API key and add to the .ENV file
 ## Quick Start
 
 # Install dependencies
-npm install
+> npm install
 
-# Serve on localhost:3000
-npm start
+# GO Live on you own Local server
+> npm start
 
 # Build for production
-npm run build
+> npm run build
 ```
 
-## App Info
-It allows you to chase the lyrics of your favorite songs.
 
 

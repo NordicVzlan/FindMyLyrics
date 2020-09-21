@@ -2,6 +2,10 @@
 
 > App that finds song lyrics using React and the Musixmatch API.
 
+### [Live Site](https://FindMyLines.netlify.app/)
+
+![Find Lyrics to popular songs](https://user-images.githubusercontent.com/51863978/93811288-29609480-fc50-11ea-83f9-da22e7823a8f.jpg)
+
 ## Musixmatch API
 
 Get your API key and add to the .ENV file
@@ -10,7 +14,6 @@ Get your API key and add to the .ENV file
 
 ## Quick Start
 
-```bash
 # Install dependencies
 npm install
 
@@ -22,16 +25,6 @@ npm run build
 ```
 
 ## App Info
+It allows you to chase the lyrics of your favorite songs.
 
-### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License

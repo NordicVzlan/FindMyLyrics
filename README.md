@@ -4,7 +4,7 @@
 
 ### [Live Site](https://FindMyLines.netlify.app/)
 
-![Find Lyrics to popular songs](https://user-images.githubusercontent.com/51863978/93811288-29609480-fc50-11ea-83f9-da22e7823a8f.jpg)
+![Find Lyrics to popular songs](https://user-images.githubusercontent.com/51863978/93812092-7133eb80-fc51-11ea-8358-bc1747499542.jpg)
 
 ## Musixmatch API
 
